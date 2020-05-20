@@ -1,10 +1,10 @@
 // prettier-ignore
 export default [
-    { author: "avrill.v", quotes: "Whatever happens, keep breathing" },
-    { author: "antjedtta_", quotes: "Pam pam pararam ceklek jedar\nPararam ram parararam ram" },
-    { author: "standinshd", quotes: "Hey! I wuv chuuuu! UwU" },
-    { author: "standinshd", quotes: "I love you." },
+    { author: "avrill.v", quotes: "Ojok Lali Ambek an, Lek ga ambek an engkok mati:v" },
+    { author: "antjedtta_", quotes: "Ojok Seneng Blokir Kontakku Njing,Engkok Aku kangen" },
+    { author: "standinshd", quotes: "Hey Ngambulan:D" },
+    { author: "standinshd", quotes: "I lop you." },
     { author: "standinshd", quotes: "I may not with you everyday, but I love you everyday." },
-    { author: "standinshd", quotes: "I love you." },
-    { author: "standinshd", quotes: "I'm sorry for loving you." },
+    { author: "standinshd", quotes: "I lop you." },
+    { author: "standinshd", quotes: "Ngapunten Soale Kulo Seneng Koe." },
 ];
